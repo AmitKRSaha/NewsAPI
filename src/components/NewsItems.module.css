@@ -1,0 +1,20 @@
+.news_items {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+.news{
+    margin: 10px;
+    align-content: center;
+}
+.news_img_top{
+    height: 200px;
+    width: 288px;
+}
+
+.btn {
+    align-content: flex-end;
+}
